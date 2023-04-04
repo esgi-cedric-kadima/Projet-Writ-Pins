@@ -1,0 +1,4 @@
+.idea
+mydatabase.db
+venv/
+./frontend/node_modules
